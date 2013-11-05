@@ -1,0 +1,200 @@
+left pan: 
+right pan: 1 
+left pan: 
+right pan: 9 1 
+left pan: 9 
+right pan: 81 27 1 
+left pan: 
+right pan: 729 243 27 1 
+left pan: 243 
+right pan: 6561 2187 27 9 1 
+left pan: 27 
+right pan: 59049 27 
+left pan: 9 19683 
+right pan: 6561 81 9 3 
+left pan: 1 
+right pan: 177147 19683 729 243 
+left pan: 
+right pan: 177147 19683 6561 2187 81 
+left pan: 2187 19683 
+right pan: 2187 729 27 9 
+left pan: 
+right pan: 3 
+left pan: 
+right pan: 9 
+left pan: 
+right pan: 27 
+left pan: 
+right pan: 81 
+left pan: 
+right pan: 243 
+left pan: 
+right pan: 729 
+left pan: 
+right pan: 2187 
+left pan: 
+right pan: 6561 
+left pan: 
+right pan: 19683 
+left pan: 19683 
+right pan: 59049 27 9 1 
+left pan: 19683 
+right pan: 59049 27 9 1 
+left pan: 19683 
+right pan: 59049 27 9 1 
+left pan: 19683 
+right pan: 59049 27 9 1 
+left pan: 19683 
+right pan: 59049 27 9 1 
+left pan: 19683 
+right pan: 59049 27 9 1 
+left pan: 19683 
+right pan: 59049 27 9 1 
+left pan: 19683 
+right pan: 59049 27 9 1 
+left pan: 19683 
+right pan: 59049 27 9 1 
+left pan: 1 
+right pan: 3 
+left pan: 1 3 
+right pan: 9 3 
+left pan: 1 3 9 
+right pan: 27 9 3 
+left pan: 1 3 9 27 
+right pan: 81 27 9 3 
+left pan: 1 3 9 27 81 
+right pan: 243 81 27 9 3 
+left pan: 1 3 9 27 81 243 
+right pan: 729 243 81 27 9 3 
+left pan: 1 3 9 27 81 243 729 
+right pan: 2187 729 243 81 27 9 3 
+left pan: 1 3 9 27 81 243 729 2187 
+right pan: 6561 2187 729 243 81 27 9 3 
+left pan: 1 3 9 27 81 243 729 2187 6561 
+right pan: 19683 6561 2187 729 243 81 27 9 3 
+left pan: 729 19683 
+right pan: 6561 729 9 1 
+left pan: 729 19683 
+right pan: 6561 729 9 
+left pan: 729 19683 
+right pan: 6561 729 9 
+left pan: 729 19683 
+right pan: 6561 729 9 
+left pan: 1 729 19683 
+right pan: 6561 729 9 
+left pan: 729 19683 
+right pan: 6561 729 9 1 
+left pan: 729 19683 
+right pan: 6561 729 9 
+left pan: 729 19683 
+right pan: 6561 729 9 
+left pan: 729 19683 
+right pan: 6561 729 9 
+left pan: 729 2187 6561 
+right pan: 19683 6561 2187 9 3 
+left pan: 243 
+right pan: 19683 6561 729 9 3 
+left pan: 27 2187 
+right pan: 177147 19683 6561 2187 243 27 9 
+left pan: 729 
+right pan: 6561 243 81 27 
+left pan: 27 
+right pan: 6561 729 243 27 1 
+left pan: 3 9 2187 6561 
+right pan: 6561 729 81 27 9 
+left pan: 9 81 243 729 6561 
+right pan: 2187 729 243 27 3 
+left pan: 2187 
+right pan: 6561 243 3 1 
+left pan: 19683 
+right pan: 729 243 81 9 3 1 
+left pan: 2187 
+right pan: 177147 6561 2187 729 81 3 1 
+left pan: 1 2187 
+right pan: 177147 19683 2187 729 
+left pan: 81 729 2187 6561 
+right pan: 6561 2187 243 27 9 3 
+left pan: 243 2187 
+right pan: 6561 729 81 27 3 1 
+left pan: 
+right pan: 177147 19683 
+left pan: 27 2187 
+right pan: 9 3 1 
+left pan: 27 2187 19683 
+right pan: 2187 27 
+left pan: 27 
+right pan: 3 
+left pan: 9 27 2187 6561 
+right pan: 6561 27 
+left pan: 27 
+right pan: 177147 19683 6561 2187 729 81 27 
+left pan: 
+right pan: 6561 2187 1 
+left pan: 243 
+right pan: 243 
+left pan: 9 27 81 729 
+right pan: 2187 81 27 
+left pan: 9 729 19683 
+right pan: 6561 2187 729 243 27 9 3 
+left pan: 9 27 729 
+right pan: 19683 243 81 27 3 
+left pan: 9 243 
+right pan: 19683 6561 729 27 3 1 
+left pan: 243 
+right pan: 177147 19683 6561 243 27 3 
+left pan: 3 243 2187 
+right pan: 177147 19683 6561 2187 243 3 
+left pan: 729 6561 
+right pan: 19683 243 81 27 
+left pan: 729 2187 
+right pan: 6561 2187 81 3 
+left pan: 3 9 19683 
+right pan: 59049 6561 729 81 27 9 
+left pan: 9 27 729 
+right pan: 19683 2187 243 27 
+left pan: 81 
+right pan: 729 243 27 9 3 
+left pan: 27 2187 
+right pan: 177147 6561 2187 243 27 9 
+left pan: 27 
+right pan: 177147 19683 6561 2187 729 243 81 27 
+left pan: 9 243 729 2187 6561 
+right pan: 19683 6561 2187 729 81 27 3 1 
+left pan: 2187 
+right pan: 19683 6561 729 81 27 9 3 
+left pan: 9 27 729 
+right pan: 27 
+left pan: 9 243 
+right pan: 6561 81 27 1 
+left pan: 1 19683 
+right pan: 6561 729 243 3 
+left pan: 27 2187 
+right pan: 6561 243 81 9 3 1 
+left pan: 9 19683 
+right pan: 6561 81 3 1 
+left pan: 81 729 
+right pan: 19683 6561 
+left pan: 729 19683 
+right pan: 6561 729 27 9 3 
+left pan: 2187 
+right pan: 19683 6561 27 9 3 1 
+left pan: 81 
+right pan: 6561 2187 729 27 9 3 
+left pan: 27 2187 19683 
+right pan: 6561 2187 81 27 3 
+left pan: 81 6561 
+right pan: 19683 
+left pan: 9 27 19683 
+right pan: 59049 2187 729 27 1 
+left pan: 729 
+right pan: 243 27 9 3 
+left pan: 243 
+right pan: 177147 19683 6561 729 243 81 27 3 
+left pan: 27 81 2187 6561 
+right pan: 19683 6561 729 81 9 
+left pan: 27 81 729 
+right pan: 19683 6561 2187 243 81 3 
+left pan: 27 2187 
+right pan: 19683 6561 9 
+left pan: 27 
+right pan: 6561 2187 729 81 9 3 
