@@ -91,5 +91,3 @@ public class Kruskal1 {
 	}
 }
 
-//Ok, we can sort the edges by their weight, the only remaining trick to do is figure out the union-find.
-//Coolio, moving right along.
